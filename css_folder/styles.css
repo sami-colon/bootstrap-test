@@ -37,3 +37,13 @@
 {
 	background-color : #512DA8;
 }
+
+.form-header{
+	background-color: #ff9900;
+	color: white;
+}
+
+.button-header{
+	background-color: #ff9900;
+	color: black;
+}
